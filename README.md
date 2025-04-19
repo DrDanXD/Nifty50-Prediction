@@ -24,9 +24,4 @@ This is a beginner-friendly stock prediction project using deep learning (LSTM) 
 
 ---
 
-## 🔧 Installation
 
-```bash
-git clone https://github.com/YOUR_USERNAME/nifty50-predictor.git
-cd nifty50-predictor
-pip install -r requirements.txt
